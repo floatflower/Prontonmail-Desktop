@@ -14,18 +14,7 @@ so just feel free and use it:)
 
 ### Download
 
-Because I don't have machine with MacOS and I havn't built the CI/CD environment yet, 
-so if you are looking forward to MacOS version, 
-please wait me a second, I'll release MacOS version after finishing CI/CD with GitHub Action.
-
-Furthermore, I release the pre-built version with Google Chrome link also because of undone CI/CD environment, 
-once I finish that, I'll change to release application with Github distribution system.
-
-Or, you can [donate me](https://payment.ecpay.com.tw/Broadcaster/Donate/EFA835E253F6CD1AC6D9780E23CC78CB) a mac mini, lol. (just kidding)
-
-#### 1.0.0
-+ Windows Portable: [x64](https://drive.google.com/file/d/1sBY6V8rLeWNreeuW093U0XEbT5hqzoup/view?usp=sharing)
-+ Windows Installer: [x64](https://drive.google.com/file/d/1o5lksmEaG4HjlVkQQwHpslGYWY2fnPC9/view?usp=sharing)
+You can download pre-built version here: [Releases](https://github.com/floatflower/prontonmail-desktop/releases)
 
 ### Built your own version
 

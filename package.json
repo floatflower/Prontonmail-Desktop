@@ -1,0 +1,30 @@
+{
+  "name": "protonmail-desktop",
+  "version": "1.0.0",
+  "description": "The protonmail desktop client which only wrapped by Electron.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "dist:windows": "electron-builder --win --x64"
+  },
+  "build": {
+    "appId": "floatflower.protonmail.desktop",
+    "productName": "ProtonMail Desktop",
+    "win": {
+      "target": [
+        "portable", "nsis"
+      ]
+    },
+    "asar": false,
+    "extraFiles": [
+      "build/**/*"
+    ]
+  },
+  "keywords": ["protonmail", "desktop"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^14.0.0",
+    "electron-builder": "^22.11.7"
+  }
+}
